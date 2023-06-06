@@ -3,7 +3,7 @@ Hola! Mi nombre es Nelson Fercher
 ¿Quién soy?
 Soy un Programador Fullstack en desarrollo web.
 
-Desde muy chico me ha interesado el mundo de la tecnología. Pero cuando conocí la programación me fasinó, mi primer lenguaje fue visual basic 6.0 . Sin duda una de las experiencias más motivadoras fue la interaccion que tuve con código.
+Desde muy chico me ha interesado el mundo de la tecnología. Pero cuando conocí la programación me fasinó, mi primer lenguaje fue visual basic 6.0 . Sin duda una de las experiencias más motivadoras fue la interaccion que tuve con el código.
 
 ¿Qué hago?
 Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. Me fascina poder encontrar la solución a los problemas de la vida con código
