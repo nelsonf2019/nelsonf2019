@@ -2,9 +2,9 @@
         <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="200">
         <p> # Hola, Soy Nelson </p>
 
-   
+        <h1 align="center"> ¿Quién soy? </h1>
 
-        <h1>Soy un Programador Fullstack en desarrollo web.</h1>
+         Soy un Programador Fullstack en desarrollo web 
 
 
 Desde muy chico me ha interesado el mundo de la tecnología. Pero cuando conocí la programación me fasinó, mi primer lenguaje fue visual basic 6.0 . Sin duda una de las experiencias más motivadoras fue la interaccion que tuve con el código.
