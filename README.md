@@ -1,7 +1,8 @@
 
-<em> # Hola, Soy Nelson </em>
-https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif
-<h1 align="center"> ¿Quién soy? </h1>
+   <div id="header" align="center">
+        <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="200">
+        <em align="center"> # Hola, Soy Nelson </em>
+    </div>
 
 
 Soy un Programador Fullstack en desarrollo web.
