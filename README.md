@@ -1,5 +1,5 @@
 <div align="center">
-        <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="200">
+<img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="200">
         <p> # Hola, Soy Nelson </p>
 <h1 align="center"> ¿Quién soy? </h1>
 
