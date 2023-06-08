@@ -1,8 +1,8 @@
-
-   <div id="header" align="center">
+<div id="header" align="center">
         <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="200">
         <em align="center"> # Hola, Soy Nelson </em>
-    </div>
+
+   
 
 
 Soy un Programador Fullstack en desarrollo web.
@@ -48,3 +48,4 @@ Entre otras herramientas, también tengo conocimiento en C#, .NET Framework, sql
 No dudes en contactarme!
 Juntos podemos realizar un gran proyecto que cambie la vida de miles de personas
 nelsonfercher@gmail.com | https://www.linkedin.com/in/fercher-nelson/
+</div>
