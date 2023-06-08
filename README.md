@@ -1,7 +1,7 @@
-Hola! Mi nombre es Nelson Fercher
-<em> # Su título aquí </em>
-<h1 align="center"> Su título aquí </h1>
-¿Quién soy?
+
+<em> # Hola, Soy Nelson </em>
+<h1 align="center"> ¿Quién soy? </h1>
+
 
 Soy un Programador Fullstack en desarrollo web.
 
