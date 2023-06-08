@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div align="center">
         <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="200">
         <h1="center"> # Hola, Soy Nelson </h1>
 
