@@ -26,6 +26,8 @@ El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fund
 
 Javascript
 
+Angular 16+
+
 React.js
 
 Node.js
