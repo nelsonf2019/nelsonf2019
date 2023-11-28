@@ -36,6 +36,8 @@ Express.js
 
 PostgreSQL
 
+Mysql
+
 Sequelize
 
 GIT
